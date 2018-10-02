@@ -1,3 +1,23 @@
 .win {
   color: green;
 }
+
+.row {
+  width: 350px;
+  margin-bottom: 20px;
+}
+
+.mb-3 {
+  width: 350px;
+}
+
+h1 {
+  padding: 20px;
+  color: purple;
+}
+
+p {
+  color: seagreen;
+  font-weight: bold;
+  font-size: 20px;
+}
